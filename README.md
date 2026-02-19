@@ -57,7 +57,6 @@ class Borja:
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-borjaiturregui-0D0D0D?style=for-the-badge&logo=github&logoColor=white&color=8B0000)](https://github.com/borjaiturregui)
-[![Email](https://img.shields.io/badge/Email-Contacto-8B0000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D0D0D)](mailto:borjaiturregui@gmail.com)
 
 </div>
 
