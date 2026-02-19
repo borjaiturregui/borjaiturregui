@@ -2,7 +2,7 @@
 
 # Hola, soy Borja Iturregui 👨‍💻
 
-### Fullstack Developer · Estudiante apasionado por la tecnología
+### Backend Junior Developer · Estudiante apasionado por la tecnología
 
 [![GitHub followers](https://img.shields.io/github/followers/borjaiturregui?style=for-the-badge&color=8B0000&labelColor=0D0D0D&logo=github&logoColor=white)](https://github.com/borjaiturregui)
 [![Profile Views](https://komarev.com/ghpvc/?username=borjaiturregui&color=8B0000&style=for-the-badge&label=VISITAS)](https://github.com/borjaiturregui)
@@ -15,9 +15,10 @@
 
 ```python
 class Borja:
-    rol       = "Fullstack Developer"
+    rol       = "Backend Junior Developer" 
     estado    = "Estudiante en formación continua"
-    pasiones  = ["Python", "HTML/CSS/JS", "Redes y Ciberseguridad"]
+    pasiones  = ["Python", "Automatización & Scripting", "Desarrollo Web", "Redes y Ciberseguridad"]
+    intereses = ["Backend development", "Bots & automatización", "Scripting con Python"]
     herramientas_favoritas = ["Wireshark", "Nmap", "GNS3"]
     objetivo  = "Crecer como desarrollador y contribuir a proyectos reales."
     frase     = "El mejor código es el que aún no has escrito… pero aprenderás."
