@@ -14,8 +14,8 @@ class Borja:
     rol       = "Backend Junior Developer" 
     estado    = "Estudiante en formación continua"
     pasiones  = ["Python", "Kotlin", "Ciberseguridad aplicada"]
-    intereses = ["Backend development", "Android", "Bots & automatización", "Scripting con Python"]
-    herramientas_favoritas = ["Android Studio", "Wireshark", "Nmap", "GNS3"]
+    intereses = ["Backend development", "Android", "Scripting con Python"]
+    herramientas_favoritas = ["Android Studio", "Wireshark", "Nmap"]
     objetivo  = "Crecer como desarrollador y contribuir a proyectos reales."
     frase     = "El mejor código es el que aún no has escrito… pero aprenderás."
 ```
