@@ -1,4 +1,4 @@
-Voy a poner esto al final jue he cambiado un par de detalles: # Hola, soy Borja Iturregui 👨‍💻
+# Hola, soy Borja Iturregui 👨‍💻
 
 ### Backend Junior Developer · Estudiante apasionado por la tecnología
 
@@ -53,10 +53,6 @@ class Borja:
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-
-![Borja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=borjaiturregui&show_icons=true&theme=dark&bg_color=0D0D0D&title_color=8B0000&icon_color=8B0000&text_color=ffffff&border_color=8B0000&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=borjaiturregui&layout=compact&theme=dark&bg_color=0D0D0D&title_color=8B0000&text_color=ffffff&border_color=8B0000)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=borjaiturregui&theme=dark&background=0D0D0D&ring=8B0000&fire=8B0000&currStreakLabel=8B0000&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=666666&border=8B0000)
 
