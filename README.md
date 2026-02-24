@@ -67,6 +67,6 @@ class Borja:
 
 ---
 
-*«El aprendizaje no termina nunca — cada línea de código es un paso adelante.»*
+*«El aprendizaje no termina nunca — cada línea de código es un paso adelante».*
 
 **Hecho con 🖤 por [borjaiturregui](https://github.com/borjaiturregui)**
