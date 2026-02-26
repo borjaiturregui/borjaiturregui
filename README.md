@@ -45,7 +45,7 @@ class Borja:
 
 | Proyecto | Descripción | Tecnologías | Estado |
 | --- | --- | --- | --- |
-| [🔐 CriptES](https://github.com/borjaiturregui/CriptES) | Kit de seguridad criptográfica para Android. AES, RSA, hashes SHA, esteganografía LSB y modo educativo. 100% offline, sin anuncios. | `Kotlin` `Jetpack Compose` `Bouncy Castle` | ![v1.0](https://img.shields.io/badge/v1.0-activo-8B0000?style=flat-square&labelColor=0D0D0D) |
+| [🔐 CriptES](https://github.com/borjaiturregui/CriptES) | Kit de seguridad criptográfica para Android. AES, RSA, hashes SHA, esteganografía LSB y modo educativo. 100% offline. | `Kotlin` `Jetpack Compose` `Bouncy Castle` | ![v1.0](https://img.shields.io/badge/v1.0-activo-8B0000?style=flat-square&labelColor=0D0D0D) |
 | [🛡️ auditoria-linux](https://github.com/borjaiturregui/auditoria-linux) | Scripts de auditoría y seguridad en sistemas Linux | `Shell` `Bash` | ![activo](https://img.shields.io/badge/activo-333?style=flat-square&labelColor=0D0D0D) |
 
 ---
