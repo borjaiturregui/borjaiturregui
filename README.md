@@ -1,6 +1,6 @@
 # Hola, soy Borja Iturregui 👨‍💻
 
-### Backend Junior Developer · Estudiante apasionado por la tecnología
+### Apasionado por la tecnología — construyo, rompo y aprendo.
 
 [![GitHub followers](https://img.shields.io/github/followers/borjaiturregui?style=for-the-badge&color=8B0000&labelColor=0D0D0D&logo=github&logoColor=white)](https://github.com/borjaiturregui)
 [![Profile Views](https://komarev.com/ghpvc/?username=borjaiturregui&color=8B0000&style=for-the-badge&label=VISITAS)](https://github.com/borjaiturregui)
@@ -11,11 +11,11 @@
 
 ```
 class Borja:
-    rol       = "Backend Junior Developer" 
-    estado    = "Estudiante en formación continua"
+    rol       = "Desarrollador y Entusiasta de Sistemas" 
+    estado    = "En formación continua y construcción constante"
     pasiones  = ["Python", "Kotlin", "Ciberseguridad aplicada"]
-    intereses = ["Backend development", "Android", "Scripting con Python"]
-    herramientas_favoritas = ["Android Studio", "Wireshark", "Nmap"]
+    intereses = ["Seguridad informática", "Desarrollo Android", "Inteligencia Artificial", "Redes y Sistemas"]
+    herramientas_favoritas = ["Android Studio", "Wireshark", "Nmap", "GNS3", "VS Code"]
     objetivo  = "Crecer como desarrollador y contribuir a proyectos reales."
     frase     = "El mejor código es el que aún no has escrito… pero aprenderás."
 ```
