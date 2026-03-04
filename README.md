@@ -35,7 +35,7 @@ class Borja:
 [![Nmap](https://img.shields.io/badge/Nmap-Security_Scanner-8B0000?style=for-the-badge&logoColor=white&labelColor=0D0D0D)](https://nmap.org)
 [![SQL Developer](https://img.shields.io/badge/SQL_Developer-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=0D0D0D)](https://www.oracle.com/database/sqldeveloper/)
 [![Git](https://img.shields.io/badge/Git-Control_de_Versiones-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0D0D0D)](https://git-scm.com)
-[![VS Code](https://img.shields.io/badge/VS_Code-Editor-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0D0D0D)](https://code.visualstudio.com)
+[![VS Code](https://img.shields.io/badge/VS_Code-Editor-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0D0D0D)](https://code.visualstudiocode.com)
 [![Android Studio](https://img.shields.io/badge/Android_Studio-IDE-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white&labelColor=0D0D0D)](https://developer.android.com/studio)
 [![Kotlin](https://img.shields.io/badge/Kotlin-Android-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=0D0D0D)](https://kotlinlang.org)
 
@@ -55,6 +55,12 @@ class Borja:
 <div align="center">
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=borjaiturregui&theme=dark&background=0D0D0D&ring=8B0000&fire=8B0000&currStreakLabel=8B0000&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=666666&border=8B0000)
+
+</div>
+
+<div align="center">
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=borjaiturregui&layout=compact&langs_count=6&theme=dark&bg_color=0D0D0D&title_color=8B0000&text_color=ffffff&border_color=8B0000&hide_border=false)](https://github.com/borjaiturregui)
 
 </div>
 
