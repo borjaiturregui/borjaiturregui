@@ -60,7 +60,7 @@ class Borja:
 
 <div align="center">
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=borjaiturregui&layout=compact&langs_count=6&theme=dark&bg_color=0D0D0D&title_color=8B0000&text_color=ffffff&border_color=8B0000&hide_border=false)](https://github.com/borjaiturregui)
+[![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=borjaiturregui&layout=compact&langs_count=6&theme=dark&bg_color=0D0D0D&title_color=8B0000&text_color=ffffff&border_color=8B0000&hide_border=false)](https://github.com/borjaiturregui)
 
 </div>
 
