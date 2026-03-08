@@ -1,9 +1,12 @@
-# Hola, soy Borja Iturregui 👨‍💻
+# Borja Iturregui
 
 ### Apasionado por la tecnología — construyo, rompo y aprendo.
 
+
+
 [![GitHub followers](https://img.shields.io/github/followers/borjaiturregui?style=for-the-badge&color=8B0000&labelColor=0D0D0D&logo=github&logoColor=white)](https://github.com/borjaiturregui)
 [![Profile Views](https://komarev.com/ghpvc/?username=borjaiturregui&color=8B0000&style=for-the-badge&label=VISITAS)](https://github.com/borjaiturregui)
+[![Portfolio](https://img.shields.io/badge/Portfolio-borjaiturregui.github.io-8B0000?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0D0D)](https://borjaiturregui.github.io)
 
 ---
 
@@ -11,12 +14,11 @@
 
 ```
 class Borja:
-    rol       = "Desarrollador y Entusiasta de Sistemas" 
-    estado    = "En formación continua y construcción constante"
-    pasiones  = ["Python", "Kotlin", "Ciberseguridad aplicada"]
-    intereses = ["Seguridad informática", "Desarrollo Android", "Inteligencia Artificial", "Redes y Sistemas"]
+    rol       = "Desarrollador Android & Seguridad"
+    foco      = ["Criptografía aplicada", "Clean Architecture", "Seguridad desde el origen"]
+    stack     = ["Kotlin", "Jetpack Compose", "Python", "Shell/Bash"]
     herramientas_favoritas = ["Android Studio", "Wireshark", "Nmap", "GNS3", "VS Code"]
-    objetivo  = "Crecer como desarrollador y contribuir a proyectos reales."
+    objetivo  = "Construir software útil, bien diseñado y seguro."
     frase     = "El mejor código es el que aún no has escrito… pero aprenderás."
 ```
 
@@ -26,18 +28,18 @@ class Borja:
 
 #### Lenguajes de Programación & Web
 
-[![](https://skillicons.dev/icons?i=html,css,js,c,python&perline=5)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=kotlin,python,html,css,js,c&perline=6)](https://skillicons.dev)
 
 #### Herramientas & Entornos
 
+[![Android Studio](https://img.shields.io/badge/Android_Studio-IDE-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white&labelColor=0D0D0D)](https://developer.android.com/studio)
+[![Kotlin](https://img.shields.io/badge/Kotlin-Android-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=0D0D0D)](https://kotlinlang.org)
 [![GNS3](https://img.shields.io/badge/GNS3-Network_Simulator-8B0000?style=for-the-badge&logoColor=white&labelColor=0D0D0D)](https://www.gns3.com)
 [![Wireshark](https://img.shields.io/badge/Wireshark-Packet_Analyzer-1679A7?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=0D0D0D)](https://www.wireshark.org)
 [![Nmap](https://img.shields.io/badge/Nmap-Security_Scanner-8B0000?style=for-the-badge&logoColor=white&labelColor=0D0D0D)](https://nmap.org)
 [![SQL Developer](https://img.shields.io/badge/SQL_Developer-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=0D0D0D)](https://www.oracle.com/database/sqldeveloper/)
 [![Git](https://img.shields.io/badge/Git-Control_de_Versiones-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0D0D0D)](https://git-scm.com)
 [![VS Code](https://img.shields.io/badge/VS_Code-Editor-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0D0D0D)](https://code.visualstudio.com)
-[![Android Studio](https://img.shields.io/badge/Android_Studio-IDE-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white&labelColor=0D0D0D)](https://developer.android.com/studio)
-[![Kotlin](https://img.shields.io/badge/Kotlin-Android-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=0D0D0D)](https://kotlinlang.org)
 
 ---
 
@@ -63,6 +65,7 @@ class Borja:
 ## 🌐 Contacto
 
 [![GitHub](https://img.shields.io/badge/GitHub-borjaiturregui-0D0D0D?style=for-the-badge&logo=github&logoColor=white&color=8B0000)](https://github.com/borjaiturregui)
+[![Portfolio](https://img.shields.io/badge/Portfolio-borjaiturregui.github.io-0D0D0D?style=for-the-badge&logo=github&logoColor=white&color=8B0000)](https://borjaiturregui.github.io)
 [![Email](https://img.shields.io/badge/Email-borjaiturregui@gmail.com-0D0D0D?style=for-the-badge&logo=gmail&logoColor=white&color=8B0000)](mailto:borjaiturregui@gmail.com)
 
 ---
