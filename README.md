@@ -1,4 +1,4 @@
-# Borja Iturregui
+# Borja Iturregui 🧑🏻‍💻
 
 ### Apasionado por la tecnología — construyo, rompo y aprendo.
 
@@ -6,7 +6,6 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/borjaiturregui?style=for-the-badge&color=8B0000&labelColor=0D0D0D&logo=github&logoColor=white)](https://github.com/borjaiturregui)
 [![Profile Views](https://komarev.com/ghpvc/?username=borjaiturregui&color=8B0000&style=for-the-badge&label=VISITAS)](https://github.com/borjaiturregui)
-[![Portfolio](https://img.shields.io/badge/Portfolio-borjaiturregui.github.io-8B0000?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0D0D)](https://borjaiturregui.github.io)
 
 ---
 
