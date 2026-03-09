@@ -2,8 +2,6 @@
 
 ### Apasionado por la tecnología — construyo, rompo y aprendo.
 
-
-
 [![GitHub followers](https://img.shields.io/github/followers/borjaiturregui?style=for-the-badge&color=8B0000&labelColor=0D0D0D&logo=github&logoColor=white)](https://github.com/borjaiturregui)
 [![Profile Views](https://komarev.com/ghpvc/?username=borjaiturregui&color=8B0000&style=for-the-badge&label=VISITAS)](https://github.com/borjaiturregui)
 
@@ -13,12 +11,12 @@
 
 ```
 class Borja:
-    rol       = "Desarrollador Android & Seguridad"
-    foco      = ["Criptografía aplicada", "Clean Architecture", "Seguridad desde el origen"]
-    stack     = ["Kotlin", "Jetpack Compose", "Python", "Shell/Bash"]
-    herramientas_favoritas = ["Android Studio", "Wireshark", "Nmap", "GNS3", "VS Code"]
+    rol       = "Desarrollador Android, Web & Seguridad Informática"
+    foco      = ["Criptografía aplicada", "Desarrollo web", "Seguridad desde el origen"]
+    stack     = ["Kotlin", "Jetpack Compose", "WordPress", "WooCommerce", "Python", "Shell/Bash"]
+    herramientas = ["Android Studio", "Sublime Text", "Wireshark", "Nmap", "GNS3", "Git"]
     objetivo  = "Construir software útil, bien diseñado y seguro."
-    frase     = "El mejor código es el que aún no has escrito… pero aprenderás."
+    frase     = "El aprendizaje no termina nunca — cada línea de código es un paso adelante."
 ```
 
 ---
@@ -27,18 +25,19 @@ class Borja:
 
 #### Lenguajes de Programación & Web
 
-[![](https://skillicons.dev/icons?i=kotlin,python,html,css,js,c&perline=6)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=kotlin,python,html,css,js&perline=5)](https://skillicons.dev)
 
 #### Herramientas & Entornos
 
 [![Android Studio](https://img.shields.io/badge/Android_Studio-IDE-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white&labelColor=0D0D0D)](https://developer.android.com/studio)
 [![Kotlin](https://img.shields.io/badge/Kotlin-Android-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=0D0D0D)](https://kotlinlang.org)
-[![GNS3](https://img.shields.io/badge/GNS3-Network_Simulator-8B0000?style=for-the-badge&logoColor=white&labelColor=0D0D0D)](https://www.gns3.com)
+[![WordPress](https://img.shields.io/badge/WordPress-CMS-21759B?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=0D0D0D)](https://wordpress.org)
+[![WooCommerce](https://img.shields.io/badge/WooCommerce-E--commerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white&labelColor=0D0D0D)](https://woocommerce.com)
 [![Wireshark](https://img.shields.io/badge/Wireshark-Packet_Analyzer-1679A7?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=0D0D0D)](https://www.wireshark.org)
 [![Nmap](https://img.shields.io/badge/Nmap-Security_Scanner-8B0000?style=for-the-badge&logoColor=white&labelColor=0D0D0D)](https://nmap.org)
-[![SQL Developer](https://img.shields.io/badge/SQL_Developer-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=0D0D0D)](https://www.oracle.com/database/sqldeveloper/)
+[![GNS3](https://img.shields.io/badge/GNS3-Network_Simulator-8B0000?style=for-the-badge&logoColor=white&labelColor=0D0D0D)](https://www.gns3.com)
 [![Git](https://img.shields.io/badge/Git-Control_de_Versiones-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0D0D0D)](https://git-scm.com)
-[![VS Code](https://img.shields.io/badge/VS_Code-Editor-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0D0D0D)](https://code.visualstudio.com)
+[![Sublime Text](https://img.shields.io/badge/Sublime_Text-Editor-FF9800?style=for-the-badge&logo=sublimetext&logoColor=white&labelColor=0D0D0D)](https://www.sublimetext.com)
 
 ---
 
@@ -46,8 +45,8 @@ class Borja:
 
 | Proyecto | Descripción | Tecnologías | Estado |
 | --- | --- | --- | --- |
-| [🔐 CriptES](https://github.com/borjaiturregui/CriptES) | Kit de seguridad criptográfica para Android. AES, RSA, hashes SHA, esteganografía LSB y modo educativo. 100% offline. | `Kotlin` `Jetpack Compose` `Bouncy Castle` | ![v1.0](https://img.shields.io/badge/v1.1.1-activo-8B0000?style=flat-square&labelColor=0D0D0D) |
-| [🛡️ auditoria-linux](https://github.com/borjaiturregui/auditoria-linux) | Scripts de auditoría y seguridad en sistemas Linux | `Shell` `Bash` | ![activo](https://img.shields.io/badge/activo-333?style=flat-square&labelColor=0D0D0D) |
+| [🔐 CriptES](https://github.com/borjaiturregui/CriptES) | App Android para cifrar y proteger información personal, 100% offline. AES-256, RSA, hashes SHA, esteganografía LSB y modo educativo integrado. | `Kotlin` `Jetpack Compose` `Bouncy Castle` | ![v1.1.1](https://img.shields.io/badge/v1.1.1-activo-8B0000?style=flat-square&labelColor=0D0D0D) |
+| [🛡️ auditoria-linux](https://github.com/borjaiturregui/auditoria-linux) | Scripts de auditoría y seguridad en sistemas Linux. Automatización de análisis y hardening. | `Shell` `Bash` | ![activo](https://img.shields.io/badge/activo-333?style=flat-square&labelColor=0D0D0D) |
 
 ---
 
