@@ -62,7 +62,6 @@ class Borja:
 
 ## 🌐 Contacto
 
-[![GitHub](https://img.shields.io/badge/GitHub-borjaiturregui-0D0D0D?style=for-the-badge&logo=github&logoColor=white&color=8B0000)](https://github.com/borjaiturregui)
 [![Portfolio](https://img.shields.io/badge/Portfolio-borjaiturregui.github.io-0D0D0D?style=for-the-badge&logo=github&logoColor=white&color=8B0000)](https://borjaiturregui.github.io)
 [![Email](https://img.shields.io/badge/Email-contacto.borjaiturregui@gmail.com-0D0D0D?style=for-the-badge&logo=gmail&logoColor=white&color=8B0000)](mailto:contacto.borjaiturregui@gmail.com)
 
