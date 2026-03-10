@@ -2,9 +2,6 @@
 
 ### Apasionado por la tecnología — construyo, rompo y aprendo.
 
-[![GitHub followers](https://img.shields.io/github/followers/borjaiturregui?style=for-the-badge&color=8B0000&labelColor=0D0D0D&logo=github&logoColor=white)](https://github.com/borjaiturregui)
-[![Profile Views](https://komarev.com/ghpvc/?username=borjaiturregui&color=8B0000&style=for-the-badge&label=VISITAS)](https://github.com/borjaiturregui)
-
 ---
 
 ## 🧑‍💻 Sobre mí
@@ -16,7 +13,6 @@ class Borja:
     stack     = ["Kotlin", "Jetpack Compose", "WordPress", "WooCommerce", "Python", "Shell/Bash"]
     herramientas = ["Android Studio", "Sublime Text", "Wireshark", "Nmap", "GNS3", "Git"]
     objetivo  = "Construir software útil, bien diseñado y seguro."
-    frase     = "El aprendizaje no termina nunca — cada línea de código es un paso adelante."
 ```
 
 ---
@@ -46,7 +42,7 @@ class Borja:
 | Proyecto | Descripción | Tecnologías | Estado |
 | --- | --- | --- | --- |
 | [🔐 CriptES](https://github.com/borjaiturregui/CriptES) | App Android para cifrar y proteger información personal, 100% offline. AES-256, RSA, hashes SHA, esteganografía LSB y modo educativo integrado. | `Kotlin` `Jetpack Compose` `Bouncy Castle` | ![v1.1.1](https://img.shields.io/badge/v1.1.1-activo-8B0000?style=flat-square&labelColor=0D0D0D) |
-| [🛡️ auditoria-linux](https://github.com/borjaiturregui/auditoria-linux) | Scripts de auditoría y seguridad en sistemas Linux. Automatización de análisis y hardening. | `Shell` `Bash` | ![activo](https://img.shields.io/badge/activo-333?style=flat-square&labelColor=0D0D0D) |
+| [🛡️ auditoria-linux](https://github.com/borjaiturregui/auditoria-linux) | Scripts de auditoría y seguridad en sistemas Linux. Automatización de análisis y hardening. | `Shell` `Bash` | ![activo](https://img.shields.io/badge/activo-8B0000?style=flat-square&labelColor=0D0D0D) |
 
 ---
 
@@ -55,6 +51,9 @@ class Borja:
 <div align="center">
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=borjaiturregui&theme=dark&background=0D0D0D&ring=8B0000&fire=8B0000&currStreakLabel=8B0000&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=666666&border=8B0000)
+
+[![GitHub followers](https://img.shields.io/github/followers/borjaiturregui?style=for-the-badge&color=8B0000&labelColor=0D0D0D&logo=github&logoColor=white)](https://github.com/borjaiturregui)
+[![Profile Views](https://komarev.com/ghpvc/?username=borjaiturregui&color=8B0000&style=for-the-badge&label=VISITAS)](https://github.com/borjaiturregui)
 
 </div>
 
