@@ -9,8 +9,8 @@
 ```
 class Borja:
     rol       = "Desarrollador Android, Web & Seguridad Informática"
-    foco      = ["Criptografía aplicada", "Desarrollo web", "Seguridad desde el origen"]
-    stack     = ["Kotlin", "Jetpack Compose", "WordPress", "WooCommerce", "Python", "Shell/Bash"]
+    foco      = ["Criptografía aplicada", "Desarrollo web", "Software libre"]
+    stack     = ["Kotlin", "WordPress", "WooCommerce", "Python", "Shell/Bash"]
     herramientas = ["Android Studio", "Sublime Text", "Wireshark", "Nmap", "GNS3", "Git"]
     objetivo  = "Construir software útil, bien diseñado y seguro."
 ```
