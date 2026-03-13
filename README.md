@@ -1,6 +1,6 @@
 # Borja Iturregui 🧑🏻‍💻
 
-### Apasionado por la tecnología — construyo, rompo y aprendo.
+### Apasionado por la tecnología — «construyo, rompo y aprendo».
 
 ---
 
