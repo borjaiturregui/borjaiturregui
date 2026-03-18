@@ -9,7 +9,7 @@
 ```
 class Borja:
     rol       = "Desarrollador Android, Web & Seguridad Informática"
-    foco      = ["Desarrollo web", "Software libre"]
+    foco      = ["Desarrollo web", "Software libre, Seguridad"]
     stack     = ["Kotlin", "WordPress", "WooCommerce", "Python", "Shell/Bash"]
     herramientas = ["Android Studio", "Sublime Text", "Wireshark", "Nmap", "GNS3", "Git"]
     objetivo  = "Construir software útil, bien diseñado y seguro."
@@ -42,7 +42,6 @@ class Borja:
 | Proyecto | Descripción | Tecnologías | Estado |
 | --- | --- | --- | --- |
 | [🔐 CriptES](https://github.com/borjaiturregui/CriptES) | App Android para cifrar y proteger información personal, 100% offline. AES-256, RSA, hashes SHA, esteganografía LSB y modo educativo integrado. | `Kotlin` `Jetpack Compose` `Bouncy Castle` | ![v1.1.1](https://img.shields.io/badge/v1.1.1-activo-8B0000?style=flat-square&labelColor=0D0D0D) |
-| [🛡️ auditoria-linux](https://github.com/borjaiturregui/auditoria-linux) | Scripts de auditoría y seguridad en sistemas Linux. Automatización de análisis y hardening. | `Shell` `Bash` | ![activo](https://img.shields.io/badge/activo-8B0000?style=flat-square&labelColor=0D0D0D) |
 
 ---
 
