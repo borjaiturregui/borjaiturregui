@@ -10,11 +10,11 @@ Apasionado por construir software útil, bien diseñado y seguro. **Cada línea 
 
 ```
 class Borja:
-    rol            = "Desarrollador Android & Web"
-    foco           = ["Criptografía", "Software Libre", "Seguridad"]
-    stack          = ["Kotlin", "Jetpack Compose", "Python", "HTML/CSS/JS", "WordPress"]
-    herramientas   = ["Android Studio", "Git", "Wireshark", "Nmap", "Docker"]
-    filosofía      = "Precisión técnica, elegancia oscura, rigor absoluto"
+    rol            = "Desarrollador Android, Web & Seguridad Informática"
+    foco           = ["Desarrollo web", "Software libre, Seguridad"]
+    stack          = ["Kotlin", "WordPress", "WooCommerce", "Python", "Shell/Bash"]
+    herramientas   = ["Android Studio", "Sublime Text", "Wireshark", "Nmap", "GNS3", "Git"]
+    objetivo       = "Construir software útil, bien diseñado y seguro."
 ```
 
 ---
@@ -44,23 +44,32 @@ class Borja:
 
 ### Herramientas & Entornos
 
-<a href="https://www.jetbrains.com/idea/" target="_blank">
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white&labelColor=111111" alt="Android Studio" />
+<a href="https://developer.android.com/studio" target="_blank">
+  <img src="https://img.shields.io/badge/Android_Studio-IDE-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white&labelColor=111111" alt="Android Studio" />
 </a>
-<a href="https://git-scm.com" target="_blank">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=111111" alt="Git" />
-</a>
-<a href="https://www.wireshark.org" target="_blank">
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=111111" alt="Wireshark" />
-</a>
-<a href="https://nmap.org" target="_blank">
-  <img src="https://img.shields.io/badge/Nmap-0073E6?style=for-the-badge&logoColor=white&labelColor=111111" alt="Nmap" />
-</a>
-<a href="https://www.docker.com" target="_blank">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=111111" alt="Docker" />
+<a href="https://kotlinlang.org" target="_blank">
+  <img src="https://img.shields.io/badge/Kotlin-Android-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=111111" alt="Kotlin" />
 </a>
 <a href="https://wordpress.org" target="_blank">
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=111111" alt="WordPress" />
+  <img src="https://img.shields.io/badge/WordPress-CMS-21759B?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=111111" alt="WordPress" />
+</a>
+<a href="https://woocommerce.com" target="_blank">
+  <img src="https://img.shields.io/badge/WooCommerce-E--commerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white&labelColor=111111" alt="WooCommerce" />
+</a>
+<a href="https://www.wireshark.org" target="_blank">
+  <img src="https://img.shields.io/badge/Wireshark-Packet_Analyzer-1679A7?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=111111" alt="Wireshark" />
+</a>
+<a href="https://nmap.org" target="_blank">
+  <img src="https://img.shields.io/badge/Nmap-Security_Scanner-8B0000?style=for-the-badge&logoColor=white&labelColor=111111" alt="Nmap" />
+</a>
+<a href="https://www.gns3.com" target="_blank">
+  <img src="https://img.shields.io/badge/GNS3-Network_Simulator-8B0000?style=for-the-badge&logoColor=white&labelColor=111111" alt="GNS3" />
+</a>
+<a href="https://git-scm.com" target="_blank">
+  <img src="https://img.shields.io/badge/Git-Control_de_Versiones-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=111111" alt="Git" />
+</a>
+<a href="https://www.sublimetext.com" target="_blank">
+  <img src="https://img.shields.io/badge/Sublime_Text-Editor-FF9800?style=for-the-badge&logo=sublimetext&logoColor=white&labelColor=111111" alt="Sublime Text" />
 </a>
 
 ---
