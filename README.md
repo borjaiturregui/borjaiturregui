@@ -67,9 +67,10 @@ class Borja:
 
 ## Proyectos
 
-### [🔐 CriptES](https://github.com/borjaiturregui/CriptES)
+### CriptES — Cifrado Android 100% Offline
 
-App Android para cifrar y proteger información personal, **100% offline**.
+**Descripción:**
+App Android para cifrar y proteger información personal sin necesidad de red. Implementación de criptografía moderna con interfaz clara y modo educativo integrado.
 
 **Características:**
 - Cifrado AES-256, RSA, hashes SHA
@@ -78,15 +79,12 @@ App Android para cifrar y proteger información personal, **100% offline**.
 - Clean Architecture, MVVM, Jetpack Compose
 - Sin permisos de red, sin recopilación de datos
 
-**Stack:**
-```
-Kotlin · Jetpack Compose · Bouncy Castle 1.77
-Hilt · Room · Coroutines · Clean Architecture
-```
+**Stack:**  
+Kotlin · Jetpack Compose · Bouncy Castle 1.77 · Hilt · Room · Coroutines
 
-**Estado:** ![v1.2](https://img.shields.io/badge/v1.2-En%20desarrollo-C94E6A?style=flat-square&labelColor=111111)
+**Estado:** En desarrollo (v1.2)
 
-**Link:** [github.com/borjaiturregui/CriptES](https://github.com/borjaiturregui/CriptES)
+**GitHub:** [borjaiturregui/CriptES](https://github.com/borjaiturregui/CriptES)
 
 ---
 
