@@ -21,26 +21,9 @@ class Borja:
 
 ## Lenguajes & Tecnologías
 
-### Desarrollo
+### Lenguajes de Programación & Web
 
-<a href="https://kotlinlang.org" target="_blank">
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=111111" alt="Kotlin" />
-</a>
-<a href="https://developer.android.com/studio" target="_blank">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=111111" alt="Android" />
-</a>
-<a href="https://www.python.org" target="_blank">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=111111" alt="Python" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-  <img src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white&labelColor=111111" alt="HTML5" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=111111" alt="CSS3" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=111111" alt="JavaScript" />
-</a>
+[![Lenguajes](https://skillicons.dev/icons?i=kotlin,python,html,css,js&perline=5)](https://skillicons.dev)
 
 ### Herramientas & Entornos
 
