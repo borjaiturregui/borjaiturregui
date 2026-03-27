@@ -30,9 +30,6 @@ class Borja:
 <a href="https://developer.android.com/studio" target="_blank">
   <img src="https://img.shields.io/badge/Android_Studio-IDE-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white&labelColor=111111" alt="Android Studio" />
 </a>
-<a href="https://kotlinlang.org" target="_blank">
-  <img src="https://img.shields.io/badge/Kotlin-Android-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=111111" alt="Kotlin" />
-</a>
 <a href="https://wordpress.org" target="_blank">
   <img src="https://img.shields.io/badge/WordPress-CMS-21759B?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=111111" alt="WordPress" />
 </a>
