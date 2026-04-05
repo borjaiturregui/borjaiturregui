@@ -9,9 +9,13 @@ Apasionado por construir software útil, bien diseñado y seguro. **Cada línea 
 ## Sobre mí
 class Borja:
 rol            = "Desarrollador Android, Web & Seguridad Informática"
+
 foco           = ["Desarrollo web", "Software libre", "Seguridad"]
+
 stack          = ["Kotlin", "WordPress", "WooCommerce", "Python", "Shell/Bash"]
+
 herramientas   = ["Android Studio", "Sublime Text", "Wireshark", "Nmap", "GNS3", "Git"]
+
 actualmente    = "Desarrollando CriptES — cifrado Android 100% offline"
 
 ---
