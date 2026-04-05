@@ -11,10 +11,10 @@ Apasionado por construir software útil, bien diseñado y seguro. **Cada línea 
 ```
 class Borja:
     rol            = "Desarrollador Android, Web & Seguridad Informática"
-    foco           = ["Desarrollo web", "Software libre, Seguridad"]
+    foco           = ["Desarrollo web", "Software libre", "Seguridad"]
     stack          = ["Kotlin", "WordPress", "WooCommerce", "Python", "Shell/Bash"]
     herramientas   = ["Android Studio", "Sublime Text", "Wireshark", "Nmap", "GNS3", "Git"]
-    objetivo       = "Construir software útil, bien diseñado y seguro."
+    actualmente    = "Desarrollando CriptES — cifrado Android 100% offline"
 ```
 
 ---
@@ -43,7 +43,7 @@ class Borja:
   <img src="https://img.shields.io/badge/Nmap-Security_Scanner-8B0000?style=for-the-badge&logoColor=white&labelColor=111111" alt="Nmap" />
 </a>
 <a href="https://www.gns3.com" target="_blank">
-  <img src="https://img.shields.io/badge/GNS3-Network_Simulator-8B0000?style=for-the-badge&logoColor=white&labelColor=111111" alt="GNS3" />
+  <img src="https://img.shields.io/badge/GNS3-Network_Simulator-6A5ACD?style=for-the-badge&logoColor=white&labelColor=111111" alt="GNS3" />
 </a>
 <a href="https://git-scm.com" target="_blank">
   <img src="https://img.shields.io/badge/Git-Control_de_Versiones-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=111111" alt="Git" />
@@ -59,6 +59,7 @@ class Borja:
 ### CriptES — Cifrado Android 100% Offline
 
 **GitHub:** [borjaiturregui/CriptES](https://github.com/borjaiturregui/CriptES)
+![Release](https://img.shields.io/github/v/release/borjaiturregui/CriptES?style=flat-square&color=C94E6A&labelColor=111111)
 
 App Android para cifrar y proteger información personal sin necesidad de red. Implementación de criptografía moderna con interfaz clara y modo educativo integrado.
 
