@@ -65,7 +65,7 @@ App Android para cifrar y proteger información personal sin necesidad de red. I
 - Clean Architecture, MVVM, Jetpack Compose
 - Sin permisos de red, sin recopilación de datos
 
-**Stack:** Kotlin · Jetpack Compose · Bouncy Castle 1.78.1 · Coroutines
+**Stack:** Kotlin · Jetpack Compose · Bouncy Castle 1.78.1
 
 ---
 
