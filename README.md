@@ -54,7 +54,6 @@ actualmente    = "Desarrollando CriptES — cifrado Android 100% offline"
 
 ### CriptES — Cifrado Android 100% Offline
 
-**GitHub:** [borjaiturregui/CriptES](https://github.com/borjaiturregui/CriptES)
 ![Release](https://img.shields.io/github/v/release/borjaiturregui/CriptES?style=flat-square&color=C94E6A&labelColor=111111)
 
 App Android para cifrar y proteger información personal sin necesidad de red. Implementación de criptografía moderna con interfaz clara y modo educativo integrado.
@@ -67,8 +66,6 @@ App Android para cifrar y proteger información personal sin necesidad de red. I
 - Sin permisos de red, sin recopilación de datos
 
 **Stack:** Kotlin · Jetpack Compose · Bouncy Castle 1.78.1 · Hilt · Room · Coroutines
-
-**Estado:** v1.1.1 · En desarrollo
 
 ---
 
