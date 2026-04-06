@@ -8,20 +8,13 @@ Apasionado por construir software útil, bien diseñado y seguro. **Cada línea 
 
 ## Sobre mí
 
-```
-┌─────────────────────────────────────────────────────────┐
-│  ~/borja $                                              │
-├─────────────────────────────────────────────────────────┤
-│  rol         →  Desarrollador Android, Web & Seguridad  │
-│  foco        →  Desarrollo web · Software libre         │
-│               · Seguridad                               │
-│  stack       →  Kotlin · WordPress · WooCommerce        │
-│               · Python · Shell/Bash                     │
-│  herramientas →  Android Studio · Sublime Text          │
-│               · Wireshark · Nmap · GNS3 · Git           │
-│  actualmente →  Desarrollando CriptES                   │
-│               · cifrado Android 100% offline            │
-└─────────────────────────────────────────────────────────┘
+```python
+class Borja:
+    rol          = "Desarrollador Android, Web & Seguridad Informática"
+    foco         = ["Desarrollo web", "Software libre", "Seguridad"]
+    stack        = ["Kotlin", "WordPress", "WooCommerce", "Python", "Shell/Bash"]
+    herramientas = ["Android Studio", "Sublime Text", "Wireshark", "Nmap", "GNS3", "Git"]
+    actualmente  = "Desarrollando CriptES — cifrado Android 100% offline"
 ```
 
 ---
@@ -63,25 +56,19 @@ Apasionado por construir software útil, bien diseñado y seguro. **Cada línea 
 
 ## Proyectos
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║  CriptES                                          [Android]  ║
-║  Cifrado 100% Offline                                        ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  $ ./cripto --modo [AES-256 | RSA | SHA | LSB]               ║
-║                                                              ║
-║  ▸ AES-256 · RSA · Hashes SHA                                ║
-║  ▸ Esteganografía LSB en imágenes                            ║
-║  ▸ Modo educativo con explicaciones paso a paso              ║
-║  ▸ Clean Architecture · MVVM · Jetpack Compose               ║
-║  ▸ Sin red · Sin datos · Sin permisos ocultos                ║
-║                                                              ║
-║  Stack: Kotlin · Jetpack Compose · Bouncy Castle 1.78.1      ║
-╚══════════════════════════════════════════════════════════════╝
-```
+### CriptES — Cifrado Android 100% Offline
 
 ![Release](https://img.shields.io/github/v/release/borjaiturregui/CriptES?style=flat-square&color=C94E6A&labelColor=111111)
+[![Repo](https://img.shields.io/badge/GitHub-CriptES-C94E6A?style=flat-square&logo=github&logoColor=white&labelColor=111111)](https://github.com/borjaiturregui/CriptES)
+
+| | |
+|---|---|
+| **Cifrado** | AES-256 · RSA · Hashes SHA |
+| **Esteganografía** | LSB — ocultación de datos en imágenes |
+| **Modo educativo** | Explicaciones paso a paso integradas |
+| **Arquitectura** | Clean Architecture · MVVM · Jetpack Compose |
+| **Privacidad** | Sin red · Sin datos · Sin permisos ocultos |
+| **Stack** | Kotlin · Jetpack Compose · Bouncy Castle 1.78.1 |
 
 ---
 
