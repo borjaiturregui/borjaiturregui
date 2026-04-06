@@ -82,7 +82,6 @@ Apasionado por construir software útil, bien diseñado y seguro. **Cada línea 
 ```
 
 ![Release](https://img.shields.io/github/v/release/borjaiturregui/CriptES?style=flat-square&color=C94E6A&labelColor=111111)
-[![Repo](https://img.shields.io/badge/GitHub-CriptES-C94E6A?style=flat-square&logo=github&logoColor=white&labelColor=111111)](https://github.com/borjaiturregui/CriptES)
 
 ---
 
