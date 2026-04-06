@@ -1,4 +1,6 @@
-# > borja
+El sobre mi lo quiero que se vea cómo en terminal y proyectos que tenga una estética mejor y no esa parrafada:
+
+# \> borja
 
 ## Desarrollador Android · Web · Seguridad Informática
 
@@ -7,20 +9,16 @@ Apasionado por construir software útil, bien diseñado y seguro. **Cada línea 
 ---
 
 ## Sobre mí
+class Borja:
+rol            = "Desarrollador Android, Web & Seguridad Informática"
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│  class Borja:                                               │
-│                                                             │
-│    rol         = "Desarrollador Android, Web & Seguridad"   │
-│    foco        = ["Desarrollo web", "Software libre",       │
-│                   "Seguridad"]                              │
-│    stack       = ["Kotlin", "WordPress", "Python", "Shell"] │
-│    tools       = ["Android Studio", "Wireshark", "Nmap",   │
-│                   "GNS3", "Git", "Sublime Text"]            │
-│    actualmente = "CriptES — cifrado Android 100% offline"   │
-└─────────────────────────────────────────────────────────────┘
-```
+foco           = ["Desarrollo web", "Software libre", "Seguridad"]
+
+stack          = ["Kotlin", "WordPress", "WooCommerce", "Python", "Shell/Bash"]
+
+herramientas   = ["Android Studio", "Sublime Text", "Wireshark", "Nmap", "GNS3", "Git"]
+
+actualmente    = "Desarrollando CriptES — cifrado Android 100% offline"
 
 ---
 
@@ -64,14 +62,17 @@ Apasionado por construir software útil, bien diseñado y seguro. **Cada línea 
 ### CriptES — Cifrado Android 100% Offline
 
 ![Release](https://img.shields.io/github/v/release/borjaiturregui/CriptES?style=flat-square&color=C94E6A&labelColor=111111)
-![Platform](https://img.shields.io/badge/platform-Android-3DDC84?style=flat-square&labelColor=111111)
-![Status](https://img.shields.io/badge/estado-activo-4CAF50?style=flat-square&labelColor=111111)
 
-App Android de criptografía moderna — AES-256, RSA, hashes SHA, esteganografía LSB y modo educativo. Sin red. Sin telemetría.
+App Android para cifrar y proteger información personal sin necesidad de red. Implementación de criptografía moderna con interfaz clara y modo educativo integrado.
 
-**Stack:** Kotlin · Jetpack Compose · Clean Architecture · Bouncy Castle
+**Características:**
+- Cifrado AES-256, RSA, hashes SHA
+- Esteganografía LSB (ocultación de datos en imágenes)
+- Modo educativo con explicaciones de criptografía
+- Clean Architecture, MVVM, Jetpack Compose
+- Sin permisos de red, sin recopilación de datos
 
-[![Ver repositorio →](https://img.shields.io/badge/Ver_repositorio-C94E6A?style=for-the-badge&logo=github&logoColor=white&labelColor=111111)](https://github.com/borjaiturregui/CriptES)
+**Stack:** Kotlin · Jetpack Compose · Bouncy Castle 1.78.1
 
 ---
 
@@ -99,7 +100,7 @@ App Android de criptografía moderna — AES-256, RSA, hashes SHA, esteganograf�
 
 <div align="center">
 
-**> borja_**
+**\> borja_**
 
 *El aprendizaje no termina nunca — cada línea de código es un paso adelante.*
 
