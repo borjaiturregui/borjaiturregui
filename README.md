@@ -1,6 +1,4 @@
-El sobre mi lo quiero que se vea cómo en terminal y proyectos que tenga una estética mejor y no esa parrafada:
-
-# \> borja
+# `> borja`
 
 ## Desarrollador Android · Web · Seguridad Informática
 
@@ -9,16 +7,22 @@ Apasionado por construir software útil, bien diseñado y seguro. **Cada línea 
 ---
 
 ## Sobre mí
-class Borja:
-rol            = "Desarrollador Android, Web & Seguridad Informática"
 
-foco           = ["Desarrollo web", "Software libre", "Seguridad"]
-
-stack          = ["Kotlin", "WordPress", "WooCommerce", "Python", "Shell/Bash"]
-
-herramientas   = ["Android Studio", "Sublime Text", "Wireshark", "Nmap", "GNS3", "Git"]
-
-actualmente    = "Desarrollando CriptES — cifrado Android 100% offline"
+```
+┌─────────────────────────────────────────────────────────┐
+│  ~/borja $                                              │
+├─────────────────────────────────────────────────────────┤
+│  rol         →  Desarrollador Android, Web & Seguridad  │
+│  foco        →  Desarrollo web · Software libre         │
+│               · Seguridad                               │
+│  stack       →  Kotlin · WordPress · WooCommerce        │
+│               · Python · Shell/Bash                     │
+│  herramientas →  Android Studio · Sublime Text          │
+│               · Wireshark · Nmap · GNS3 · Git           │
+│  actualmente →  Desarrollando CriptES                   │
+│               · cifrado Android 100% offline            │
+└─────────────────────────────────────────────────────────┘
+```
 
 ---
 
@@ -59,20 +63,26 @@ actualmente    = "Desarrollando CriptES — cifrado Android 100% offline"
 
 ## Proyectos
 
-### CriptES — Cifrado Android 100% Offline
+```
+╔══════════════════════════════════════════════════════════════╗
+║  CriptES                                          [Android]  ║
+║  Cifrado 100% Offline                                        ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  $ ./cripto --modo [AES-256 | RSA | SHA | LSB]               ║
+║                                                              ║
+║  ▸ AES-256 · RSA · Hashes SHA                                ║
+║  ▸ Esteganografía LSB en imágenes                            ║
+║  ▸ Modo educativo con explicaciones paso a paso              ║
+║  ▸ Clean Architecture · MVVM · Jetpack Compose               ║
+║  ▸ Sin red · Sin datos · Sin permisos ocultos                ║
+║                                                              ║
+║  Stack: Kotlin · Jetpack Compose · Bouncy Castle 1.78.1      ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
 ![Release](https://img.shields.io/github/v/release/borjaiturregui/CriptES?style=flat-square&color=C94E6A&labelColor=111111)
-
-App Android para cifrar y proteger información personal sin necesidad de red. Implementación de criptografía moderna con interfaz clara y modo educativo integrado.
-
-**Características:**
-- Cifrado AES-256, RSA, hashes SHA
-- Esteganografía LSB (ocultación de datos en imágenes)
-- Modo educativo con explicaciones de criptografía
-- Clean Architecture, MVVM, Jetpack Compose
-- Sin permisos de red, sin recopilación de datos
-
-**Stack:** Kotlin · Jetpack Compose · Bouncy Castle 1.78.1
+[![Repo](https://img.shields.io/badge/GitHub-CriptES-C94E6A?style=flat-square&logo=github&logoColor=white&labelColor=111111)](https://github.com/borjaiturregui/CriptES)
 
 ---
 
@@ -100,7 +110,7 @@ App Android para cifrar y proteger información personal sin necesidad de red. I
 
 <div align="center">
 
-**\> borja_**
+**`> borja_`**
 
 *El aprendizaje no termina nunca — cada línea de código es un paso adelante.*
 
