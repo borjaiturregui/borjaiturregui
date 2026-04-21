@@ -98,8 +98,6 @@ class Borja:
 
 **`> borja_`**
 
-*El aprendizaje no termina nunca — cada línea de código es un paso adelante.*
-
 Hecho con 🖤 por [borjaiturregui](https://borjaiturregui.github.io)
 
 </div>
