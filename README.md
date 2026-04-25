@@ -68,7 +68,7 @@ class Borja:
 | **Modo educativo** | Explicaciones paso a paso integradas |
 | **Arquitectura** | Clean Architecture · MVVM · Jetpack Compose |
 | **Privacidad** | Sin red · Sin datos · Sin permisos ocultos |
-| **Stack** | Kotlin · Jetpack Compose · Bouncy Castle 1.78.1 |
+| **Stack** | Kotlin · Jetpack Compose · Bouncy Castle 1.84 |
 
 ---
 
