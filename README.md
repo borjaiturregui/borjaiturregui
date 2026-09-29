@@ -1,6 +1,6 @@
 # `> borja`
 
-## Desarrollador Android · Web · Seguridad Informática
+## Desarrollador & Seguridad informática
 
 Apasionado por construir software útil, bien diseñado y seguro. **Cada línea de código es un paso adelante.**
 
@@ -10,10 +10,10 @@ Apasionado por construir software útil, bien diseñado y seguro. **Cada línea 
 
 ```python
 class Borja:
-    rol          = "Desarrollador Android, Web & Seguridad Informática"
-    foco         = ["Desarrollo web", "Software libre", "Seguridad"]
-    stack        = ["Kotlin", "WordPress", "WooCommerce", "Python", "Shell/Bash"]
-    herramientas = ["Android Studio", "Sublime Text", "Wireshark", "Nmap", "GNS3", "Git"]
+    rol          = "Desarrollador & Seguridad informática"
+    foco         = ["Desarrollo Android", "Desarrollo web", "Seguridad informática", "Software libre"]
+    lenguajes    = ["Kotlin", "Python", "HTML", "CSS", "JavaScript", "Bash"]
+    herramientas = ["Android Studio", "WordPress", "WooCommerce", "Wireshark", "Nmap", "GNS3", "Git", "Sublime Text"]
 ```
 
 ---
@@ -22,32 +22,32 @@ class Borja:
 
 ### Lenguajes de Programación & Web
 
-[![Lenguajes](https://skillicons.dev/icons?i=kotlin,python,html,css,js&perline=5)](https://skillicons.dev)
+[![Lenguajes](https://skillicons.dev/icons?i=kotlin,python,html,css,js,bash&perline=6)](https://skillicons.dev)
 
 ### Herramientas & Entornos
 
-<a href="https://developer.android.com/studio" target="_blank">
+<a href="https://developer.android.com/studio">
   <img src="https://img.shields.io/badge/Android_Studio-IDE-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white&labelColor=111111" alt="Android Studio" />
 </a>
-<a href="https://wordpress.org" target="_blank">
+<a href="https://wordpress.org">
   <img src="https://img.shields.io/badge/WordPress-CMS-21759B?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=111111" alt="WordPress" />
 </a>
-<a href="https://woocommerce.com" target="_blank">
-  <img src="https://img.shields.io/badge/WooCommerce-E--commerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white&labelColor=111111" alt="WooCommerce" />
+<a href="https://woocommerce.com">
+  <img src="https://img.shields.io/badge/WooCommerce-Tienda_online-96588A?style=for-the-badge&logo=woocommerce&logoColor=white&labelColor=111111" alt="WooCommerce" />
 </a>
-<a href="https://www.wireshark.org" target="_blank">
-  <img src="https://img.shields.io/badge/Wireshark-Packet_Analyzer-1679A7?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=111111" alt="Wireshark" />
+<a href="https://www.wireshark.org">
+  <img src="https://img.shields.io/badge/Wireshark-An%C3%A1lisis_de_tr%C3%A1fico-1679A7?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=111111" alt="Wireshark" />
 </a>
-<a href="https://nmap.org" target="_blank">
-  <img src="https://img.shields.io/badge/Nmap-Security_Scanner-8B0000?style=for-the-badge&logoColor=white&labelColor=111111" alt="Nmap" />
+<a href="https://nmap.org">
+  <img src="https://img.shields.io/badge/Nmap-Esc%C3%A1ner_de_redes-8B0000?style=for-the-badge&logoColor=white&labelColor=111111" alt="Nmap" />
 </a>
-<a href="https://www.gns3.com" target="_blank">
-  <img src="https://img.shields.io/badge/GNS3-Network_Simulator-6A5ACD?style=for-the-badge&logoColor=white&labelColor=111111" alt="GNS3" />
+<a href="https://www.gns3.com">
+  <img src="https://img.shields.io/badge/GNS3-Simulador_de_redes-6A5ACD?style=for-the-badge&logoColor=white&labelColor=111111" alt="GNS3" />
 </a>
-<a href="https://git-scm.com" target="_blank">
-  <img src="https://img.shields.io/badge/Git-Control_de_Versiones-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=111111" alt="Git" />
+<a href="https://git-scm.com">
+  <img src="https://img.shields.io/badge/Git-Control_de_versiones-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=111111" alt="Git" />
 </a>
-<a href="https://www.sublimetext.com" target="_blank">
+<a href="https://www.sublimetext.com">
   <img src="https://img.shields.io/badge/Sublime_Text-Editor-FF9800?style=for-the-badge&logo=sublimetext&logoColor=white&labelColor=111111" alt="Sublime Text" />
 </a>
 
@@ -62,12 +62,13 @@ class Borja:
 
 | | |
 |---|---|
-| **Cifrado** | AES-256 · RSA · Hashes SHA |
-| **Esteganografía** | LSB — ocultación de datos en imágenes |
+| **Cifrado de texto** | AES-256 · DES · 3DES · ChaCha20 |
+| **Hashes** | MD5 · SHA-1 · SHA-256 · SHA-512 |
 | **Modo educativo** | Explicaciones paso a paso integradas |
+| **En desarrollo** | Cifrado RSA · Esteganografía LSB · Cifrado de archivos |
 | **Arquitectura** | Clean Architecture · MVVM · Jetpack Compose |
 | **Privacidad** | Sin red · Sin datos · Sin permisos ocultos |
-| **Stack** | Kotlin · Jetpack Compose · Bouncy Castle 1.84 |
+| **Stack** | Kotlin · Jetpack Compose · Bouncy Castle |
 
 ---
 
@@ -89,7 +90,6 @@ class Borja:
 | Canal | Link |
 |-------|------|
 | **Portfolio** | [borjaiturregui.github.io](https://borjaiturregui.github.io) |
-| **Email** | [contacto.borjaiturregui@gmail.com](mailto:contacto.borjaiturregui@gmail.com) |
 
 ---
 
